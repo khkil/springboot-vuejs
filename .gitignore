@@ -46,3 +46,4 @@ package-lock.json
 
 ###custom###
 src/main/resources/
+*.war
