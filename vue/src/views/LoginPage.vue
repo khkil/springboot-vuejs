@@ -8,6 +8,7 @@
 export default {
   name: 'LoginPage',
   mounted() {
+    alert(1);
   }
 }
 </script>
